@@ -15,4 +15,10 @@
     // Insert code here to initialize your application
 }
 
+- (IBAction)submit:(id)sender
+{
+    NSString *name = [self.yourname stringValue];
+    [self.message setStringValue:[NSString stringWithFormat:@"Welcome, %@!", name]];
+}
+
 @end

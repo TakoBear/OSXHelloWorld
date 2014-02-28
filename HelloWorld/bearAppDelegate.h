@@ -12,4 +12,9 @@
 
 @property (assign) IBOutlet NSWindow *window;
 
+
+@property (weak) IBOutlet NSTextField *message;
+@property (weak) IBOutlet NSTextField *yourname;
+
+- (IBAction)submit:(id)sender;
 @end
