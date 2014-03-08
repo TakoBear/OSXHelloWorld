@@ -2,6 +2,7 @@
 
 This is a simple OS X Application for HelloWolrd.
 
+The Tutorial is in TakoBear.tw
 
 ## Link
 
@@ -11,7 +12,3 @@ takobearx@gmail.com or
 
 [Shawn & Takobear] (http://www.takobear.tw/index.html)
 
-
-##License
-
-Licensed under the BSD license.
